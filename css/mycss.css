@@ -1,0 +1,73 @@
+body{
+	background-color: #e0e0e0;
+}
+
+/*used in index.html page*/
+.custom{
+	/*background-image: url("images1.jpeg");*/
+	background-color: #5c6bc0;
+	height: 350px;
+	/*background-size: */
+}
+
+.splash{
+	text-align: center;
+	/*padding-top: 15px;*/
+	padding-top: 3%;
+	color: #f5f5f5; 
+}
+
+.custom2{
+
+	/*margin:auto;*/
+
+	
+}
+
+.custom3{
+
+	z-index: 1;
+	margin-top: -75px;
+
+}
+
+#custom4{
+
+	/*opacity: 0.45;*/
+}
+
+/*Used in dashboard.html page*/
+
+.page{
+	height: 550px;
+}
+
+.page2{
+	height:530px;
+}
+
+.mycust{
+	margin-left: auto;
+}
+
+.cust{
+	margin-top: 0px;
+}
+
+/*#info{
+	display: none;
+}
+
+#colapp{
+	display: none;
+}
+#rowapp{
+	display: none;
+}*/
+
+/*used in upload.html file*/
+.touchdown{
+	margin-top: 23px;
+}
+
+
